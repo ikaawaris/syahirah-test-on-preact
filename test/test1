@@ -1,0 +1,10 @@
+@ikaawaris ➜ /workspaces/codespaces-preact (main) $ git status
+On branch main
+nothing to commit, working tree clean
+@ikaawaris ➜ /workspaces/codespaces-preact (main) $ git log
+commit 1dba3a8b1f39f3ca2348a6d8828409e4c995df45 (HEAD -> main)
+Author: ikaawaris <142369048+ikaawaris@users.noreply.github.com>
+Date:   Wed Oct 18 07:25:31 2023 +0000
+
+    Initial commit
+@ikaawaris ➜ /workspaces/codespaces-preact (main) $ 
